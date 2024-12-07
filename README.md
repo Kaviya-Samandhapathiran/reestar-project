@@ -6,4 +6,4 @@ I’m excited to share that I’ve completed the Reestar Project using HTML and 
 * Recipe: A dedicated page showcasing various recipes with clear and appealing layouts.
 * Contact: A page where users can reach out through a contact form.
 
-🔗 Visit the site here: 
+🔗 Visit the site here: https://kaviya-samandhapathiran.github.io/reestar-project/
